@@ -1,0 +1,10 @@
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\bin\Debug\rysownik.exe.config
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\bin\Debug\rysownik.exe
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\bin\Debug\rysownik.pdb
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\bin\Debug\rysownik.xml
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\obj\Debug\rysownik.Form1.resources
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\obj\Debug\rysownik.Resources.resources
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\obj\Debug\rysownik.vbproj.GenerateResource.Cache
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\obj\Debug\rysownik.exe
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\obj\Debug\rysownik.xml
+c:\users\202484\documents\visual studio 2012\Projects\rysownik\rysownik\obj\Debug\rysownik.pdb
